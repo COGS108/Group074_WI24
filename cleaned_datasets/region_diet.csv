@@ -1,0 +1,112 @@
+region,disaggregation,disagg.value,continued_breastfeeding_1yr (%),Dairy (g/day),early_initiation (%),exclusive_breastfeeding (%),Fish (g/day),Fruit (g/day),Legumes (g/day),minimum_accept_diet (%),minimum_diet_diversity (%),minimum_meal (%),Nuts (g/day),Red meat (g/day),solid_foods (%),Vegetables (g/day),Whole grains (g/day)
+Africa,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Africa,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Africa,sex,Both,65.84,,51.71,44.38,,,,13.21,23.81,44.74,,,75.41,,
+Asia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Asia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Asia,sex,Both,70.93,,45.88,44.96,,,,19.18,28.89,54.49,,,69.52,,
+Australia and New Zealand,location,Sub-regional,,2.86,,,1.02,0.68,0.29,,,,0.26,4.33,,0.4,0.52
+Australia and New Zealand,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Australia and New Zealand,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Australia and New Zealand,sex,Both,20.0,,,,,,,,,,,,,,
+Caribbean,location,Sub-regional,,0.78,,,0.66,0.58,0.31,,,,0.11,4.46,,0.34,0.21
+Caribbean,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Caribbean,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Caribbean,sex,Both,35.5,,47.28,27.3,,,,30.19,37.79,59.41,,,87.86,,
+Central America,location,Sub-regional,,1.3,,,0.38,0.69,0.41,,,,0.11,3.56,,0.58,0.09
+Central America,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Central America,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Central America,sex,Both,41.99,,48.29,31.92,,,,49.3,60.39,79.53,,,88.03,,
+Central Asia,location,Sub-regional,,2.07,,,1.14,0.38,0.27,,,,0.98,6.58,,0.52,0.41
+Central Asia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Central Asia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Central Asia,sex,Both,54.12,,79.25,44.6,,,,20.75,35.55,47.05,,,65.55,,
+Eastern Africa,location,Sub-regional,,0.27,,,0.74,0.36,0.33,,,,0.26,1.26,,0.5,0.71
+Eastern Africa,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Eastern Africa,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Eastern Africa,sex,Both,73.91,,65.42,59.2,,,,13.32,21.91,49.1,,,78.06,,
+Eastern Asia,location,Sub-regional,,0.31,,,1.37,0.46,0.19,,,,0.34,7.26,,0.99,0.06
+Eastern Asia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Eastern Asia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Eastern Asia,sex,Both,,,29.18,22.04,,,,24.7,37.12,62.89,,,82.92,,
+Eastern Europe,location,Sub-regional,,2.52,,,1.08,0.6,0.1,,,,0.5,8.54,,0.62,0.51
+Eastern Europe,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Eastern Europe,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Europe,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Europe,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Europe,sex,Both,,,,,,,,,,,,,,,
+Global,location,Global,,0.8,,,1.01,0.4,0.26,,,,0.32,3.57,,0.6,0.39
+Global,location,High income,,2.0,,,1.05,0.59,0.25,,,,0.32,3.79,,0.52,0.24
+Global,location,Low income,,0.33,,,0.93,0.34,0.34,,,,0.48,1.14,,0.4,0.47
+Global,location,Lower-middle income,,0.47,,,0.79,0.26,0.26,,,,0.22,1.36,,0.53,0.67
+Global,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Global,location,Upper-middle income,,0.74,,,1.22,0.48,0.25,,,,0.37,6.24,,0.76,0.15
+Global,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Global,sex,Both,64.82,,48.37,43.76,,,,18.16,28.87,51.72,,,72.58,,
+Latin America and the Caribbean,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Latin America and the Caribbean,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Latin America and the Caribbean,sex,Both,45.43,,53.71,37.35,,,,,61.66,,,,87.16,,
+Melanesia,location,Sub-regional,,0.19,,,0.2,0.08,0.1,,,,0.02,14.89,,0.32,0.81
+Melanesia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Melanesia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Melanesia,sex,Both,78.28,,56.84,61.07,,,,17.88,32.18,43.93,,,79.01,,
+Micronesia,location,Sub-regional,,0.26,,,2.07,0.59,0.31,,,,0.12,2.06,,0.42,0.24
+Micronesia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Micronesia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Micronesia,sex,Both,61.22,,45.6,63.59,,,,8.27,9.3,74.1,,,89.91,,
+Middle Africa,location,Sub-regional,,0.22,,,1.47,0.46,0.29,,,,0.76,1.25,,0.64,0.29
+Middle Africa,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Middle Africa,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Middle Africa,sex,Both,64.94,,43.82,43.96,,,,9.38,19.31,34.43,,,79.34,,
+North America,location,Sub-regional,,2.06,,,0.42,0.46,0.19,,,,0.48,2.63,,0.43,0.19
+North America,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+North America,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+North America,sex,Both,11.55,,,25.8,,,,,,,,,,,
+Northern Africa,location,Sub-regional,,0.9,,,0.96,0.42,0.19,,,,0.3,2.07,,0.52,0.2
+Northern Africa,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Northern Africa,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Northern Africa,sex,Both,52.59,,39.69,39.77,,,,20.78,33.82,50.64,,,74.84,,
+Northern America,location,Sub-regional,,2.06,,,0.42,0.46,0.19,,,,0.48,2.63,,0.43,0.19
+Northern America,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Northern America,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Northern America,sex,Both,11.55,,,25.8,,,,,,,,,,,
+Northern Europe,location,Sub-regional,,2.8,,,1.12,0.47,0.31,,,,0.23,3.98,,0.42,0.34
+Northern Europe,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Northern Europe,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Oceania,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Oceania,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Oceania,sex,Both,44.93,,,,,,,,,,,,,,
+Polynesia,location,Sub-regional,,0.61,,,1.66,0.69,1.68,,,,0.74,2.03,,0.9,0.09
+Polynesia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Polynesia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Polynesia,sex,Both,61.51,,66.61,61.35,,,,,,,,,78.91,,
+South-eastern Asia,location,Sub-regional,,0.3,,,2.1,0.4,0.36,,,,0.34,2.74,,0.52,0.24
+South-eastern Asia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+South-eastern Asia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+South-eastern Asia,sex,Both,59.04,,52.46,45.06,,,,41.24,51.5,74.5,,,85.66,,
+South America,location,Sub-regional,,1.2,,,0.95,0.5,0.52,,,,0.3,5.55,,0.33,0.13
+South America,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+South America,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+South America,sex,Both,,,,,,,,,,,,,,,
+Southern Africa,location,Sub-regional,,0.52,,,0.23,0.22,0.3,,,,0.09,9.5,,0.45,0.53
+Southern Africa,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Southern Africa,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Southern Africa,sex,Both,32.77,,65.74,33.47,,,,18.68,39.07,44.76,,,82.63,,
+Southern Asia,location,Sub-regional,,0.43,,,0.42,0.22,0.26,,,,0.15,0.56,,0.55,0.83
+Southern Asia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Southern Asia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Southern Asia,sex,Both,77.74,,49.7,56.98,,,,10.72,18.74,45.43,,,58.15,,
+Southern Europe,location,Sub-regional,,2.04,,,1.94,0.81,0.17,,,,0.23,4.78,,0.55,0.25
+Southern Europe,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Southern Europe,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Western Africa,location,Sub-regional,,0.21,,,1.38,0.24,0.18,,,,0.51,1.22,,0.31,0.41
+Western Africa,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Western Africa,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Western Africa,sex,Both,66.97,,46.75,33.89,,,,11.68,22.58,43.67,,,70.7,,
+Western Asia,location,Sub-regional,,1.94,,,0.99,0.5,0.36,,,,0.64,3.49,,0.39,0.14
+Western Asia,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Western Asia,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Western Asia,sex,Both,42.07,,51.73,32.53,,,,,,,,,84.28,,
+Western Europe,location,Sub-regional,,2.33,,,0.81,0.69,0.08,,,,0.13,3.69,,0.54,0.46
+Western Europe,location,Target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
+Western Europe,location,Within target,,1.0,,,1.0,1.0,1.0,,,,1.0,1.0,,1.0,1.0
