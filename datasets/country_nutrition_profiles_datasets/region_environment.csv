@@ -1,0 +1,503 @@
+region,disaggregation,disagg.value,section,environmental_impacts_beef_lamb_2018,environmental_impacts_eggs_2018,environmental_impacts_fish_2018,environmental_impacts_fruit_veg_2018,environmental_impacts_grains_2018,environmental_impacts_legumes_2018,environmental_impacts_milk_2018,environmental_impacts_nuts_seeds_2018,environmental_impacts_oils_2018,environmental_impacts_pork_poultry_2018,environmental_impacts_roots_2018,environmental_impacts_sugar_2018,impacts_total_2018,planetary_impacts_Cropland_2010,planetary_impacts_Cropland_2018,planetary_impacts_Freshwater_2010,planetary_impacts_Freshwater_2018,planetary_impacts_Greenhouse gases_2010,planetary_impacts_Greenhouse gases_2018,planetary_impacts_Nitrogen_2010,planetary_impacts_Nitrogen_2018,planetary_impacts_Phosphorus_2010,planetary_impacts_Phosphorus_2018
+Africa,emission_type,Freshwater use,Environmental impacts,3.63,1.82,0.67,57.89,55.55,7.25,4.36,7.91,4.09,6.2,11.22,40.29,200.88,,,,,,,,,,
+Africa,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,647.99,19.57,71.3,268.88,804.7,40.22,158.21,31.99,95.69,88.08,368.24,90.07,2684.94,,,,,,,,,,
+Africa,emission_type,Land use,Environmental impacts,11361.99,26.26,19.01,195.46,1047.21,286.36,3693.52,91.07,255.48,102.11,502.45,67.73,17648.66,,,,,,,,,,
+Africa,emission_type,Nitrogen application,Environmental impacts,257.68,182.71,51.96,1502.89,3597.74,4.35,267.82,25.21,328.64,577.24,291.6,518.65,7606.49,,,,,,,,,,
+Africa,emission_type,Phosphorus application,Environmental impacts,39.02,24.93,10.48,237.73,481.64,7.19,46.41,3.49,79,84.87,42.28,82.87,1139.9,,,,,,,,,,
+Africa,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,5.49,4.92,2.06,1.83,130.86,121.37,4.79,4.31,4.21,3.8
+Africa,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,1.83,1.8,0.72,0.71,0.72,0.71,1.69,1.66,1.31,1.29
+Africa,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.6,0.62,0.28,0.29,0.09,0.09,0.82,0.84,0.86,0.89
+Africa,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,10.27,10.43,17.95,17.86,2.64,2.64,19.4,19.59,15.07,15.25
+Africa,food_group,grains,Environmental impacts,,,,,,,,,,,,,,50.2,48.21,28.97,29.31,5.42,5.35,58.55,58.9,44.81,44.94
+Africa,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,11.84,11.7,7.18,7.11,0.93,0.92,0.08,0.06,0.37,0.31
+Africa,food_group,milk,Environmental impacts,,,,,,,,,,,,,,7.66,4.94,2.38,1.54,17.64,11.38,5.63,3.63,6.16,3.98
+Africa,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,4.59,4.58,2.45,2.45,0.85,0.84,2.15,2.15,1.74,1.74
+Africa,food_group,oils,Environmental impacts,,,,,,,,,,,,,,6.13,6.59,1.54,1.67,2.22,2.32,4.42,4.7,5.17,5.55
+Africa,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,5.2,5.75,1.7,1.9,3.18,3.46,4.93,5.47,3.99,4.43
+Africa,food_group,roots,Environmental impacts,,,,,,,,,,,,,,7.63,8.21,6.93,7.46,2.13,2.29,8.58,9.24,8.73,9.39
+Africa,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,2.61,2.8,13.38,14.37,0.62,0.67,6.89,7.4,5.36,5.75
+Africa,food_group,total,Environmental impacts,,,,,,,,,,,,,,121.57,121.72,102.48,111.59,173.2,160.81,131.5,138.04,106.36,110.02
+Asia,emission_type,Freshwater use,Environmental impacts,18.44,34.01,7.65,249.79,407.61,67.76,43.23,37.31,28.51,61.69,20.38,260.46,1236.84,,,,,,,,,,
+Asia,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,1356.09,215.16,505.34,730.44,622.93,73.83,939.93,79.55,308.29,923.05,106.79,188.11,6049.51,,,,,,,,,,
+Asia,emission_type,Land use,Environmental impacts,9787.17,321.96,66.68,595.52,918.13,452.75,5868.18,232.26,884.93,1106.05,153.64,215.11,20602.38,,,,,,,,,,
+Asia,emission_type,Nitrogen application,Environmental impacts,958.63,2144,865.83,15725.8,17582.2,82.36,2165.49,680.47,1918.28,5657.21,1326.22,3496.56,52603.06,,,,,,,,,,
+Asia,emission_type,Phosphorus application,Environmental impacts,189.8,397.48,190.23,2607.15,2954.25,87.74,522.76,146.68,553.68,1056.39,268.72,580.29,9555.16,,,,,,,,,,
+Asia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,3.25,3.39,1.2,1.25,82.37,86.47,2.86,2.98,2.53,2.64
+Asia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,6.37,7.41,2.51,2.91,2.51,2.92,5.87,6.83,4.54,5.28
+Asia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1.41,1.74,0.69,0.84,0.21,0.25,1.85,2.29,1.98,2.45
+Asia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,16.39,18.34,24.15,27.01,3.92,4.37,30.13,33.64,24.02,26.79
+Asia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,26.84,27.21,25.01,25.6,3.66,3.74,42.44,43.48,32.07,32.83
+Asia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,7.1,7.86,4.12,4.56,0.55,0.61,0.19,0.21,0.89,1.01
+Asia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,10.74,11.35,3.33,3.52,24.72,26.13,7.89,8.34,8.64,9.13
+Asia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.41,5.73,2.89,3.06,1,1.06,2.54,2.69,2.06,2.18
+Asia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,7.96,8.42,2.15,2.29,2.23,2.3,5.3,5.56,6.59,6.96
+Asia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,17.35,18.7,4.56,4.93,15.84,16.97,15.75,17,12.55,13.55
+Asia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,2.35,2.33,2.13,2.12,0.66,0.65,2.64,2.63,2.69,2.67
+Asia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,3.22,3.49,16.5,17.88,0.77,0.83,8.51,9.21,6.61,7.16
+Asia,food_group,total,Environmental impacts,,,,,,,,,,,,,,133.94,152.99,146.73,179.27,158.48,175.36,171.95,201.48,134.28,154.83
+Australia and New Zealand,emission_type,Freshwater use,Environmental impacts,0.47,0.66,0.02,1.88,0.3,0.08,0.65,0.07,0.25,3.08,0.07,1.15,8.69,,,,,,,,,,
+Australia and New Zealand,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,186.36,1.68,5.06,6.01,3.9,0.32,42.19,0.23,5.35,21.77,0.83,1.55,275.27,,,,,,,,,,
+Australia and New Zealand,emission_type,Land use,Environmental impacts,2036.07,2.26,0.84,5.36,27.78,3.2,494.46,1.67,17.53,84.29,1.83,2.96,2678.25,,,,,,,,,,
+Australia and New Zealand,emission_type,Nitrogen application,Environmental impacts,24.73,41.44,5.55,54.41,73.61,0.06,36.5,43.67,97.43,226.08,9.87,27.86,641.21,,,,,,,,,,
+Australia and New Zealand,emission_type,Phosphorus application,Environmental impacts,8.38,14.47,1.46,15.15,24.59,0.21,11.5,9.96,21.95,76.91,2.12,4.11,190.8,,,,,,,,,,
+Australia and New Zealand,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,23.19,18.57,8.41,6.75,617.77,491.41,20.49,16.39,18.19,14.54
+Australia and New Zealand,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,5.73,7.37,2.25,2.9,2.26,2.91,5.28,6.79,4.09,5.25
+Australia and New Zealand,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1,1.15,0.53,0.59,0.16,0.17,1.24,1.44,1.38,1.59
+Australia and New Zealand,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,18.64,14.39,30.12,22.65,3.83,3.17,32.06,25.51,24.81,19.98
+Australia and New Zealand,food_group,grains,Environmental impacts,,,,,,,,,,,,,,25.11,26.65,26.06,27.35,3.64,3.83,42.66,44.69,32.16,33.71
+Australia and New Zealand,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,1.82,1.76,1.09,0.96,0.14,0.13,0.02,0.09,0.12,0.46
+Australia and New Zealand,food_group,milk,Environmental impacts,,,,,,,,,,,,,,37.76,36.62,11.72,11.37,86.92,84.32,27.74,26.91,30.37,29.46
+Australia and New Zealand,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,7.18,4.93,3.84,2.63,1.32,0.91,3.37,2.31,2.73,1.87
+Australia and New Zealand,food_group,oils,Environmental impacts,,,,,,,,,,,,,,19.98,22.91,5.59,6.6,4.79,4.72,12.76,14.1,16.38,18.63
+Australia and New Zealand,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,51.26,59.9,15.4,17.97,37.81,44.29,47.77,55.81,38.4,44.86
+Australia and New Zealand,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.3,2.82,3,2.56,0.92,0.79,3.71,3.18,3.77,3.23
+Australia and New Zealand,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,8.02,9.71,41.08,49.75,1.91,2.31,21.17,25.64,16.45,19.92
+Australia and New Zealand,food_group,total,Environmental impacts,,,,,,,,,,,,,,206.82,211.43,157.74,162.52,764.49,642.6,225.18,231.2,193.21,198.79
+Caribbean,emission_type,Freshwater use,Environmental impacts,0.14,0.11,0.01,4.37,0.3,0.29,0.31,0.24,0.06,2.36,0.38,1.96,10.51,,,,,,,,,,
+Caribbean,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,14.48,0.99,1.39,14.72,2.93,0.87,6.84,0.71,2.74,10.48,2.88,4.88,63.92,,,,,,,,,,
+Caribbean,emission_type,Land use,Environmental impacts,65.73,2,0.44,9.38,6.94,6.76,14.47,1.38,3.55,39.28,4.06,1.95,155.92,,,,,,,,,,
+Caribbean,emission_type,Nitrogen application,Environmental impacts,10.95,9.84,1.12,57.51,46.76,0.01,17.51,4.72,7.81,24.72,2.41,22.38,205.75,,,,,,,,,,
+Caribbean,emission_type,Phosphorus application,Environmental impacts,1.99,1.86,0.26,9.33,7.15,0.04,5.27,0.86,4.04,45.51,0.35,4.38,81.03,,,,,,,,,,
+Caribbean,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,4.82,3.72,1.73,1.34,132.49,101.03,4.27,3.3,3.8,2.93
+Caribbean,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,4.46,5.35,1.76,2.1,1.76,2.11,4.12,4.93,3.18,3.82
+Caribbean,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.32,0.33,0.16,0.16,0.05,0.05,0.42,0.43,0.45,0.46
+Caribbean,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,18.52,23.07,33.57,42.31,4.06,5.02,32.44,40.22,24.43,30.12
+Caribbean,food_group,grains,Environmental impacts,,,,,,,,,,,,,,17.06,17.48,15.6,15.88,2.35,2.41,28.05,29.03,21.11,21.82
+Caribbean,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,13.72,12.98,8.26,7.96,1.07,1.02,0.14,0.02,0.65,0.09
+Caribbean,food_group,milk,Environmental impacts,,,,,,,,,,,,,,10.08,9.56,3.13,2.97,23.2,22,7.4,7.02,8.11,7.69
+Caribbean,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,4.31,6.66,2.3,3.56,0.79,1.23,2.02,3.12,1.64,2.53
+Caribbean,food_group,oils,Environmental impacts,,,,,,,,,,,,,,10.26,10.35,2.79,2.77,2.81,3.01,6.79,6.97,8.48,8.59
+Caribbean,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,28.83,32.11,9,10.22,19.7,21.03,27.08,30.29,21.82,24.45
+Caribbean,food_group,roots,Environmental impacts,,,,,,,,,,,,,,4.33,4.19,3.94,3.81,1.21,1.17,4.88,4.72,4.96,4.8
+Caribbean,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,6.17,6.64,31.6,34.02,1.47,1.58,16.28,17.53,12.65,13.62
+Caribbean,food_group,total,Environmental impacts,,,,,,,,,,,,,,138.24,154.66,148.36,177.09,203,179.11,161.5,187.55,128.78,146.23
+Central America,emission_type,Freshwater use,Environmental impacts,0.6,2.09,0.06,17.25,7.39,1.95,1.65,0.27,0.33,8.14,0.43,9.56,49.7,,,,,,,,,,
+Central America,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,292.29,14.63,15.69,45.47,38.68,4.1,75.47,3.28,13.61,71.07,1.94,29.62,605.84,,,,,,,,,,
+Central America,emission_type,Land use,Environmental impacts,1298.51,28.35,3.09,27.86,96.73,30.38,183.43,6.32,16.86,369.45,3.44,11.86,2076.27,,,,,,,,,,
+Central America,emission_type,Nitrogen application,Environmental impacts,68.03,146.76,6.4,240.12,837.02,0.3,138.91,15.86,90.63,111.36,7.55,120.83,1783.8,,,,,,,,,,
+Central America,emission_type,Phosphorus application,Environmental impacts,12.82,20.62,1.35,53.72,87.55,0.96,35.17,2.22,21.35,21.83,0.85,21.5,279.94,,,,,,,,,,
+Central America,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,6.94,6.51,2.36,2.21,217.92,204.86,6.24,5.85,5.63,5.29
+Central America,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,12.65,14.27,4.97,5.61,4.99,5.63,11.66,13.16,9.02,10.18
+Central America,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.36,0.7,0.19,0.35,0.05,0.1,0.46,0.91,0.5,0.98
+Central America,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,13.21,15.52,23.72,27.31,2.74,3.24,22.89,26.94,17.47,20.62
+Central America,food_group,grains,Environmental impacts,,,,,,,,,,,,,,41.38,39.93,29.46,28.65,5.36,5.22,68.66,67.53,51.2,50.3
+Central America,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,11.59,10.89,7.1,6.68,0.91,0.86,0.03,0.02,0.12,0.09
+Central America,food_group,milk,Environmental impacts,,,,,,,,,,,,,,17.25,14.43,5.36,4.48,39.72,33.22,12.68,10.6,13.88,11.61
+Central America,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,2.38,2.66,1.27,1.42,0.44,0.49,1.12,1.25,0.9,1.01
+Central America,food_group,oils,Environmental impacts,,,,,,,,,,,,,,8.47,9.15,2.26,2.46,2.5,2.63,5.73,6.14,7.04,7.59
+Central America,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,31.95,38.45,9.85,11.79,22.42,27.25,29.93,35.98,24.1,28.96
+Central America,food_group,roots,Environmental impacts,,,,,,,,,,,,,,0.92,0.94,0.83,0.86,0.26,0.26,1.03,1.06,1.05,1.08
+Central America,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,8.2,8.17,42.01,41.85,1.95,1.94,21.65,21.57,16.82,16.76
+Central America,food_group,total,Environmental impacts,,,,,,,,,,,,,,158.71,167.02,137.05,145.81,301.94,289.95,188.2,200.72,151.63,160.61
+Central Asia,emission_type,Freshwater use,Environmental impacts,5.67,1.51,0.03,11.07,11.14,0.19,2.35,0.47,1.04,0.75,2.16,1.25,37.61,,,,,,,,,,
+Central Asia,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,66.51,2.38,0.53,16.86,18.25,0.12,49.28,0.36,4.36,4.37,2.27,2.53,167.82,,,,,,,,,,
+Central Asia,emission_type,Land use,Environmental impacts,1878.31,3.54,0.12,11.91,26.85,0.88,856.19,1.17,20.45,27.42,3.87,3.36,2834.08,,,,,,,,,,
+Central Asia,emission_type,Nitrogen application,Environmental impacts,82.88,27.58,1.36,171.5,241.62,0.02,45.59,13.97,31.53,9.46,15.55,21.52,662.59,,,,,,,,,,
+Central Asia,emission_type,Phosphorus application,Environmental impacts,10.77,3.46,0.14,22.43,30.01,0.03,6.75,1.37,5.87,2.38,3.2,3.66,90.07,,,,,,,,,,
+Central Asia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,14.21,15.58,5.19,5.67,372.09,410.92,12.53,13.74,11.1,12.19
+Central Asia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,4.83,5.27,1.9,2.07,1.91,2.08,4.45,4.86,3.45,3.76
+Central Asia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.13,0.23,0.06,0.11,0.02,0.03,0.18,0.32,0.19,0.33
+Central Asia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,19.74,24.04,26.41,32.37,4.73,5.69,36.19,43.83,29.11,35.19
+Central Asia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,51.43,49.22,52.75,50.3,7.37,7.05,85.71,81.99,64.7,61.88
+Central Asia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,0.55,0.71,0.34,0.44,0.04,0.06,0,0,0.01,0.02
+Central Asia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,29.77,32.33,9.25,10.04,68.54,74.43,21.87,23.75,23.95,26
+Central Asia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,1.09,1.52,0.58,0.81,0.2,0.28,0.51,0.71,0.41,0.58
+Central Asia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,12.9,14.6,3.87,4.38,1.97,2.24,7.47,8.47,10.35,11.72
+Central Asia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,9.04,8.03,2.55,2.54,7.42,5.32,8.32,7.56,6.66,6.1
+Central Asia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,4.07,4.39,3.7,3.99,1.14,1.23,4.58,4.94,4.65,5.02
+Central Asia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,2.82,3.37,14.42,17.28,0.67,0.8,7.43,8.91,5.78,6.92
+Central Asia,food_group,total,Environmental impacts,,,,,,,,,,,,,,152.6,162.5,125.6,137.2,467.69,512.64,192.91,204.85,162.67,173.36
+Eastern Africa,emission_type,Freshwater use,Environmental impacts,0.26,0.12,0.02,9.36,5.15,2.49,0.56,2.05,0.41,3.18,2.11,15.02,40.73,,,,,,,,,,
+Eastern Africa,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,201.38,3.15,11.68,51.27,282.06,17.83,69.43,9.46,26.51,18.61,90.87,28.55,810.79,,,,,,,,,,
+Eastern Africa,emission_type,Land use,Environmental impacts,2990.05,4.22,1.95,45.47,342.71,128.4,1275.98,23.34,78.8,39.61,130.14,21.47,5082.16,,,,,,,,,,
+Eastern Africa,emission_type,Nitrogen application,Environmental impacts,11.07,20.91,3.01,316.33,913.74,1.6,38.53,8.06,104.58,30.51,67.94,107.36,1623.62,,,,,,,,,,
+Eastern Africa,emission_type,Phosphorus application,Environmental impacts,2.76,3.03,0.9,53.4,127.93,2.64,7.55,1.13,21.06,166.84,9.77,20.8,417.8,,,,,,,,,,
+Eastern Africa,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,3.99,3.92,1.45,1.41,105.03,106.33,3.52,3.47,3.12,3.09
+Eastern Africa,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,0.82,0.79,0.32,0.31,0.32,0.31,0.76,0.73,0.59,0.56
+Eastern Africa,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.63,0.66,0.29,0.31,0.09,0.09,0.86,0.9,0.9,0.94
+Eastern Africa,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,7.62,7.36,15.06,13.73,2.03,1.88,14.6,13.82,11.08,10.54
+Eastern Africa,food_group,grains,Environmental impacts,,,,,,,,,,,,,,36.99,38.45,21.16,22.4,4.13,4.31,47.71,49.66,36.14,37.63
+Eastern Africa,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,15.56,15.47,9.47,9.42,1.22,1.21,0.08,0.08,0.37,0.37
+Eastern Africa,food_group,milk,Environmental impacts,,,,,,,,,,,,,,7.13,5.37,2.22,1.67,16.42,12.36,5.24,3.94,5.74,4.32
+Eastern Africa,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,3.33,3.56,1.78,1.9,0.61,0.66,1.56,1.67,1.27,1.35
+Eastern Africa,food_group,oils,Environmental impacts,,,,,,,,,,,,,,3.68,4.82,0.88,1.19,1.54,1.82,2.8,3.53,3.15,4.08
+Eastern Africa,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,2.63,2.77,0.75,0.79,2.13,2.24,2.42,2.56,1.94,2.05
+Eastern Africa,food_group,roots,Environmental impacts,,,,,,,,,,,,,,7.34,7.18,6.67,6.52,2.05,2.01,8.26,8.08,8.4,8.22
+Eastern Africa,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,1.89,2.14,9.68,10.98,0.45,0.51,4.99,5.66,3.88,4.4
+Eastern Africa,food_group,total,Environmental impacts,,,,,,,,,,,,,,96.74,101.13,81.23,90.05,140.05,140.51,101.99,109.61,82.4,87.39
+Eastern Asia,emission_type,Freshwater use,Environmental impacts,3.86,10.38,2.59,71.13,28.95,1.38,3.41,5.68,2.1,64.57,1.3,5.47,200.82,,,,,,,,,,
+Eastern Asia,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,632.86,135.19,333.59,363.59,157.57,14.76,97.6,21.08,85.73,617.8,34.72,23.38,2517.86,,,,,,,,,,
+Eastern Asia,emission_type,Land use,Environmental impacts,3620.39,200.5,43.4,277.35,218.6,33.52,3026.08,77.93,264.4,1768.96,57.97,27.29,9616.37,,,,,,,,,,
+Eastern Asia,emission_type,Nitrogen application,Environmental impacts,520.41,1306.47,492.6,11321.3,4449.57,12.47,411.75,145.84,614.84,2761.86,846.32,424.51,23307.94,,,,,,,,,,
+Eastern Asia,emission_type,Phosphorus application,Environmental impacts,106.45,252.68,100.57,1781.46,761.85,41.35,105.67,23.04,156.65,585.65,143.11,73.86,4132.32,,,,,,,,,,
+Eastern Asia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,4.62,5.18,1.73,1.94,111.44,125.5,4.04,4.53,3.56,3.99
+Eastern Asia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,15.15,16.37,5.96,6.44,5.98,6.46,13.97,15.1,10.81,11.68
+Eastern Asia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,2.76,3.21,1.38,1.6,0.41,0.47,3.58,4.15,3.87,4.49
+Eastern Asia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,28.52,32.67,38.72,44.98,7.34,8.29,54.24,61.7,43.99,49.88
+Eastern Asia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,22.02,23.62,22.21,23.08,3.15,3.32,37.14,38.73,27.99,29.22
+Eastern Asia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,3.37,3.31,1.35,1.4,0.23,0.23,0.54,0.48,2.59,2.3
+Eastern Asia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,5.88,4.31,1.82,1.34,13.53,9.93,4.32,3.17,4.73,3.47
+Eastern Asia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,3.95,5.72,2.11,3.06,0.73,1.06,1.85,2.68,1.5,2.18
+Eastern Asia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,8.29,8.76,2.31,2.46,2.04,2.09,5.33,5.59,6.8,7.18
+Eastern Asia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,41.06,44.41,9.76,10.6,42.2,45.48,36.65,39.66,29.02,31.42
+Eastern Asia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.64,3.39,3.31,3.08,1.02,0.95,4.09,3.81,4.16,3.88
+Eastern Asia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,1.6,1.78,8.19,9.1,0.38,0.42,4.22,4.69,3.28,3.65
+Eastern Asia,food_group,total,Environmental impacts,,,,,,,,,,,,,,166.4,191.57,156.33,196.43,208.5,234.67,215.95,254.17,171.42,197.58
+Eastern Europe,emission_type,Freshwater use,Environmental impacts,0.64,0.8,0.02,6.65,2.48,0.15,0.88,0.32,0.43,15.49,0.34,4.4,32.61,,,,,,,,,,
+Eastern Europe,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,99.44,17.75,9.82,36.27,78.39,1.01,107.66,2.11,14.71,121.32,12.57,21.61,522.65,,,,,,,,,,
+Eastern Europe,emission_type,Land use,Environmental impacts,1012.41,23.93,1.91,29.8,145.43,4.42,337.45,6.85,50.54,656.26,26.23,16.82,2312.05,,,,,,,,,,
+Eastern Europe,emission_type,Nitrogen application,Environmental impacts,160.94,248.52,4.59,170.27,755.46,2.77,213.33,37.21,142.27,587.01,37.42,371.76,2731.55,,,,,,,,,,
+Eastern Europe,emission_type,Phosphorus application,Environmental impacts,22.76,30.21,0.91,34.04,81.45,0.95,40.89,7.07,29.93,80.51,8.04,90.04,426.8,,,,,,,,,,
+Eastern Europe,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,6.92,5.86,2.43,2.1,200.34,160.83,6.16,5.19,5.52,4.62
+Eastern Europe,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,12.02,11.97,4.73,4.71,4.74,4.72,11.08,11.03,8.57,8.54
+Eastern Europe,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.68,0.65,0.32,0.31,0.1,0.1,0.91,0.87,0.96,0.92
+Eastern Europe,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,14.74,15.59,21.69,23.09,3.32,3.52,26.33,27.9,20.83,22.06
+Eastern Europe,food_group,grains,Environmental impacts,,,,,,,,,,,,,,49.04,46.94,44.91,43.69,6.56,6.34,74.23,72.22,56.28,54.71
+Eastern Europe,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,1.76,1.95,1.07,1.18,0.14,0.15,0.01,0.01,0.04,0.07
+Eastern Europe,food_group,milk,Environmental impacts,,,,,,,,,,,,,,30.51,26.1,9.47,8.11,70.23,60.09,22.41,19.17,24.54,20.99
+Eastern Europe,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,1.55,1.48,0.83,0.79,0.29,0.27,0.73,0.69,0.59,0.56
+Eastern Europe,food_group,oils,Environmental impacts,,,,,,,,,,,,,,15.25,16.47,4.53,4.94,2.54,2.52,8.98,9.55,12.28,13.22
+Eastern Europe,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,42.35,50.39,11.24,13.68,38.12,43.93,38.53,46.04,30.72,36.76
+Eastern Europe,food_group,roots,Environmental impacts,,,,,,,,,,,,,,6.05,5.86,5.5,5.33,1.69,1.64,6.81,6.6,6.92,6.71
+Eastern Europe,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,7.37,10.78,37.73,55.2,1.75,2.56,19.45,28.45,15.11,22.11
+Eastern Europe,food_group,total,Environmental impacts,,,,,,,,,,,,,,189.47,195.92,147.26,167.38,330.79,288.15,217.87,231.14,183.78,193.43
+Europe,emission_type,Freshwater use,Environmental impacts,3,3.62,0.21,19.14,12.58,1.02,5.11,1.62,7.07,35.46,1.14,9.58,99.55,,,,,,,,,,
+Europe,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,394.2,45.46,59.56,115.71,192.43,3.73,324.43,4.88,61.75,333.11,25.29,46.27,1606.81,,,,,,,,,,
+Europe,emission_type,Land use,Environmental impacts,2055.86,61.27,8.88,96.39,367.7,20.86,728.42,27.98,186.97,1376.67,53.82,36.25,5021.09,,,,,,,,,,
+Europe,emission_type,Nitrogen application,Environmental impacts,534.94,687.23,33.91,756.62,2066.32,3.34,841.83,144.32,693.89,1695.43,123.2,560.19,8141.22,,,,,,,,,,
+Europe,emission_type,Phosphorus application,Environmental impacts,75.72,84.08,6.99,137.7,209.02,2.79,191.58,21.11,110.92,223.48,25.35,124.33,1213.08,,,,,,,,,,
+Europe,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,9.4,7.67,3.34,2.71,265.42,218.85,8.35,6.82,7.46,6.1
+Europe,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,10.76,10.87,4.23,4.28,4.24,4.29,9.92,10.02,7.68,7.75
+Europe,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.95,0.91,0.47,0.45,0.14,0.14,1.22,1.17,1.33,1.27
+Europe,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,18.14,16.76,28.66,26.25,3.89,3.63,31.8,29.5,24.81,23.06
+Europe,food_group,grains,Environmental impacts,,,,,,,,,,,,,,41.84,41.97,39.95,40.27,5.75,5.79,65.9,66.55,49.86,50.33
+Europe,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,2.49,2.54,1.51,1.52,0.19,0.2,0.02,0.03,0.08,0.16
+Europe,food_group,milk,Environmental impacts,,,,,,,,,,,,,,38.25,30.67,11.88,9.53,88.05,70.62,28.1,22.53,30.76,24.67
+Europe,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,3.61,3.09,1.93,1.65,0.67,0.57,1.7,1.45,1.37,1.18
+Europe,food_group,oils,Environmental impacts,,,,,,,,,,,,,,19.11,18.46,5.6,5.51,3.53,2.95,11.49,10.78,15.46,14.84
+Europe,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,47.68,49.69,12.22,13.01,44.91,45.55,43.1,45.1,34.29,35.93
+Europe,food_group,roots,Environmental impacts,,,,,,,,,,,,,,4.61,4.2,4.19,3.82,1.29,1.17,5.19,4.73,5.28,4.81
+Europe,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,6.83,8.32,35.01,42.63,1.63,1.98,18.04,21.97,14.02,17.07
+Europe,food_group,total,Environmental impacts,,,,,,,,,,,,,,205.32,197.38,152.68,156.65,421.01,357.49,227.79,224.68,194.27,189.71
+Global,emission_type,Freshwater use,Environmental impacts,31.29,45.73,8.81,379.09,496.52,82.46,63.56,51.65,44.46,104.06,38.52,352.98,1699.13,,,,,,,,,,
+Global,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,4815.36,344.94,722.45,1340.79,1812.86,135.04,2035.97,130.7,571.24,1758.18,559.25,454.4,14681.19,,,,,,,,,,
+Global,emission_type,Land use,Environmental impacts,35302.4,537.27,109.07,1051.94,2872.55,881.16,11848,402,1560.45,2331.93,781.02,384.52,58062.3,,,,,,,,,,
+Global,emission_type,Nitrogen application,Environmental impacts,2795.99,4012.12,988.06,19198.6,26874,92.44,4271.69,1082.52,3538.43,12662.61,1950.97,5516.29,82983.72,,,,,,,,,,
+Global,emission_type,Phosphorus application,Environmental impacts,543.26,694.47,217.11,3234.22,4281.21,102.46,1080.81,207.02,970.81,2252.14,400.58,968.33,14952.4,,,,,,,,,,
+Global,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,5.55,5.25,2,1.91,103.59,99.62,5.74,5.49,5.05,4.88
+Global,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,5.19,5.86,2.31,2.79,2.55,2.93,6.92,7.87,5.44,6.24
+Global,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1.05,1.27,0.44,0.54,0.17,0.21,1.59,1.94,1.61,1.95
+Global,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,14.01,15.92,22.13,23.13,3.07,3.26,33.89,37.67,26.16,29.05
+Global,food_group,grains,Environmental impacts,,,,,,,,,,,,,,42.14,41.85,29.64,30.3,4.58,4.81,50.84,52.72,36.92,38.46
+Global,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,11.1,11.65,4.91,5.03,0.44,0.45,0.11,0.18,0.83,0.92
+Global,food_group,milk,Environmental impacts,,,,,,,,,,,,,,10.74,9.2,4.05,3.88,25.93,23.26,9.44,8.38,10.74,9.71
+Global,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.58,6.71,2.65,3.15,1.79,3.31,2.09,2.12,1.85,1.86
+Global,food_group,oils,Environmental impacts,,,,,,,,,,,,,,9.31,9.8,2.64,2.71,2.11,2.05,6.86,6.94,8.4,8.72
+Global,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,15.78,17.17,5.85,6.35,12.74,13.76,22.87,24.84,18.5,20.23
+Global,food_group,roots,Environmental impacts,,,,,,,,,,,,,,5.31,5.4,2.25,2.35,1.11,1.04,3.94,3.83,3.69,3.6
+Global,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,3.85,4.32,19.92,21.54,0.94,1.08,9.89,10.82,7.77,8.7
+Global,food_group,total,Environmental impacts,,,,,,,,,,,,,,147.65,160.11,133.09,151.95,171.9,174.42,189.62,213.3,150.2,167.25
+Latin America and the Caribbean,emission_type,Freshwater use,Environmental impacts,2.35,3.22,0.13,37.84,12.53,4.38,4.22,2.43,1.57,25.87,2.93,28.5,125.99,,,,,,,,,,
+Latin America and the Caribbean,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,1746.08,36.85,37.75,154.44,112.37,12.09,331.78,11.23,66.26,252.62,31.7,105.59,2898.75,,,,,,,,,,
+Latin America and the Caribbean,emission_type,Land use,Environmental impacts,6173.44,73.65,11,108.25,298.3,90.37,831.32,25.94,85.76,886.15,47.73,42.7,8674.61,,,,,,,,,,
+Latin America and the Caribbean,emission_type,Nitrogen application,Environmental impacts,323.32,304.65,17.17,775.27,1922.55,1.17,341.93,28.44,175.3,335.9,86.6,492.14,4804.45,,,,,,,,,,
+Latin America and the Caribbean,emission_type,Phosphorus application,Environmental impacts,117.17,73.6,5.07,171.76,355.96,2.37,176.86,4.22,135.28,90.07,27.98,85.56,1245.9,,,,,,,,,,
+Latin America and the Caribbean,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,10.67,10.35,3.59,3.48,343.12,332.98,9.62,9.33,8.71,8.44
+Latin America and the Caribbean,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,8.69,10.47,3.42,4.12,3.43,4.13,8.02,9.65,6.2,7.47
+Latin America and the Caribbean,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.42,0.57,0.21,0.28,0.06,0.08,0.55,0.75,0.59,0.8
+Latin America and the Caribbean,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,14.67,14.9,27.25,27.38,3.18,3.28,25.83,26.37,19.6,20.05
+Latin America and the Caribbean,food_group,grains,Environmental impacts,,,,,,,,,,,,,,30.2,31.22,25.2,25.86,4.08,4.21,50.28,52.06,37.67,38.99
+Latin America and the Caribbean,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,11.05,9.42,6.58,5.77,0.86,0.74,0.16,0.02,0.79,0.11
+Latin America and the Caribbean,food_group,milk,Environmental impacts,,,,,,,,,,,,,,20.53,18.26,6.38,5.67,47.27,42.04,15.09,13.42,16.52,14.69
+Latin America and the Caribbean,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,4.35,4.49,2.32,2.4,0.8,0.83,2.04,2.11,1.65,1.71
+Latin America and the Caribbean,food_group,oils,Environmental impacts,,,,,,,,,,,,,,12.8,13.91,3.61,3.91,2.95,3.27,8.09,8.83,10.47,11.38
+Latin America and the Caribbean,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,34.13,39.7,10.89,12.65,22.24,25.93,32.21,37.45,26,30.23
+Latin America and the Caribbean,food_group,roots,Environmental impacts,,,,,,,,,,,,,,2.94,2.75,2.67,2.5,0.82,0.77,3.31,3.1,3.36,3.15
+Latin America and the Caribbean,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,7.4,7.65,37.91,39.19,1.76,1.82,19.54,20.2,15.18,15.69
+Latin America and the Caribbean,food_group,total,Environmental impacts,,,,,,,,,,,,,,166.24,176.4,148.85,161.82,437.13,430.06,189.78,206.18,156.28,167.21
+Melanesia,emission_type,Freshwater use,Environmental impacts,0.01,0,0,0.61,0.35,0,0,0.18,0.01,0.13,0.03,0.03,1.35,,,,,,,,,,
+Melanesia,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,0.59,0.04,0.17,0.13,0.16,0.02,0.03,0.05,0.05,0.73,0.35,0.11,2.42,,,,,,,,,,
+Melanesia,emission_type,Land use,Environmental impacts,4.42,0.05,0.01,0.11,0.4,0.26,0.23,0.11,0.12,1,0.51,0.2,7.42,,,,,,,,,,
+Melanesia,emission_type,Nitrogen application,Environmental impacts,1.96,0.06,0.09,19.51,19.35,0.01,0.11,6.77,3.5,1.68,3,3.55,59.59,,,,,,,,,,
+Melanesia,emission_type,Phosphorus application,Environmental impacts,0.3,0.01,0.02,3.2,3.16,0.02,0.02,1.33,0.68,32.72,0.44,0.7,42.61,,,,,,,,,,
+Melanesia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,0.87,24.8,0.32,10.31,22.94,389.82,0.77,21.01,0.68,17.88
+Melanesia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,0.41,0.85,0.16,0.33,0.16,0.33,0.38,0.78,0.29,0.61
+Melanesia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.11,0.33,0.06,0.16,0.02,0.05,0.14,0.44,0.16,0.47
+Melanesia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,1.52,28.38,2.53,52.43,0.28,5.04,2.5,46.19,1.9,34.41
+Melanesia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,3.02,13.84,3.22,13.88,0.44,1.96,5.16,22.64,3.89,17.11
+Melanesia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,1.12,1.72,0.68,1.02,0.09,0.13,0,0.03,0.02,0.13
+Melanesia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,0.69,0.36,0.21,0.11,1.58,0.83,0.5,0.27,0.55,0.29
+Melanesia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,9.73,30.21,5.2,16.14,1.79,5.57,4.56,14.16,3.7,11.49
+Melanesia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,0.8,3.71,0.2,0.61,0.31,2.7,0.59,3.59,0.68,3.4
+Melanesia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,2.5,12.71,0.74,3.17,1.89,12.38,2.32,11.44,1.87,9.08
+Melanesia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,2.15,11.75,1.96,10.68,0.6,3.28,2.42,13.22,2.46,13.45
+Melanesia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,0.69,3.9,3.52,20,0.16,0.93,1.81,10.3,1.41,8.01
+Melanesia,food_group,total,Environmental impacts,,,,,,,,,,,,,,26.78,144.61,25.93,155.94,32.76,432.48,26.87,165.76,21.22,130.04
+Middle Africa,emission_type,Freshwater use,Environmental impacts,0.05,0,0.03,2.3,0.98,0.18,0.02,0.2,0.25,1.41,0.29,1.57,7.28,,,,,,,,,,
+Middle Africa,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,76.39,0.22,3.53,15.56,47.94,2.31,5.63,3.22,7.03,11.03,35.45,6.09,214.4,,,,,,,,,,
+Middle Africa,emission_type,Land use,Environmental impacts,2686.39,0.3,0.09,13.89,61.27,17.11,194.92,9.46,16.85,39.3,48.24,4.58,3092.4,,,,,,,,,,
+Middle Africa,emission_type,Nitrogen application,Environmental impacts,9.87,1.34,2.88,82.35,172.73,0.14,3.38,0.4,15.67,19.92,21.14,30.95,360.76,,,,,,,,,,
+Middle Africa,emission_type,Phosphorus application,Environmental impacts,1.93,0.19,0.63,14.06,25.49,0.31,0.64,0.06,4.44,3.85,3.02,5.72,60.34,,,,,,,,,,
+Middle Africa,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,5.65,4.9,2.11,1.83,138,120.88,4.95,4.3,4.36,3.79
+Middle Africa,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,0.73,0.25,0.29,0.1,0.29,0.1,0.68,0.23,0.52,0.18
+Middle Africa,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.58,0.57,0.27,0.26,0.09,0.08,0.79,0.77,0.83,0.81
+Middle Africa,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,9.99,8.78,18.79,16.98,2.68,2.4,19.34,17.11,14.97,13.16
+Middle Africa,food_group,grains,Environmental impacts,,,,,,,,,,,,,,38.24,39.72,20.55,21.71,4,4.21,42.5,45.39,32.62,34.75
+Middle Africa,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,10.44,10.47,6.38,6.38,0.82,0.82,0.03,0.05,0.16,0.22
+Middle Africa,food_group,milk,Environmental impacts,,,,,,,,,,,,,,2.65,1.63,0.82,0.5,6.09,3.74,1.94,1.19,2.13,1.31
+Middle Africa,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,6.03,7.36,3.22,3.93,1.11,1.36,2.83,3.45,2.29,2.8
+Middle Africa,food_group,oils,Environmental impacts,,,,,,,,,,,,,,6.02,6.02,1.53,1.44,2.1,2.49,4.29,4.55,5.07,5.14
+Middle Africa,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,8.96,9.13,2.76,2.84,6.29,6.31,8.4,8.57,6.76,6.9
+Middle Africa,food_group,roots,Environmental impacts,,,,,,,,,,,,,,10.86,10.56,9.87,9.59,3.04,2.95,12.22,11.88,12.43,12.09
+Middle Africa,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,2.09,2.47,10.69,12.63,0.5,0.59,5.51,6.51,4.28,5.06
+Middle Africa,food_group,total,Environmental impacts,,,,,,,,,,,,,,106.48,109.16,86.83,94.64,168.32,151.67,111.1,117.15,91.25,94.53
+North America,emission_type,Freshwater use,Environmental impacts,3.38,2.4,0.13,11.94,7.6,1.96,5.98,2.12,2.96,30.84,2.75,12.97,85.01,,,,,,,,,,
+North America,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,484.07,26.19,43.27,65.2,76.36,4.83,239.4,2.78,33.85,269.25,26.04,22.7,1293.93,,,,,,,,,,
+North America,emission_type,Land use,Environmental impacts,3883.46,51.81,2.65,50.85,213.02,27.35,231.84,22.97,129.66,1597.8,21.03,19.57,6252.01,,,,,,,,,,
+North America,emission_type,Nitrogen application,Environmental impacts,694.7,652.03,13.55,363.83,1612.01,1.14,617.99,151.85,321.33,1072.32,110.46,417.26,6028.47,,,,,,,,,,
+North America,emission_type,Phosphorus application,Environmental impacts,112.86,99.9,2.86,61.51,252.56,2.14,131.67,19.99,69.28,156.33,33.68,90.44,1033.21,,,,,,,,,,
+North America,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,14.61,14.01,4.87,4.68,477.92,456.85,13.2,12.65,11.97,11.47
+North America,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,11.64,13.51,4.58,5.31,4.59,5.33,10.73,12.46,8.3,9.64
+North America,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1.2,1.29,0.63,0.67,0.18,0.2,1.5,1.62,1.66,1.79
+North America,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,19.74,17.68,32.29,28.2,4.28,3.85,34.83,31.17,27.1,24.32
+North America,food_group,grains,Environmental impacts,,,,,,,,,,,,,,32.22,32.15,30.7,30.51,4.47,4.45,52.21,51.82,39.39,39.12
+North America,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,4.4,4.31,2.69,2.62,0.35,0.34,0.01,0.03,0.07,0.13
+North America,food_group,milk,Environmental impacts,,,,,,,,,,,,,,42.52,37.51,13.2,11.65,97.89,86.37,31.24,27.56,34.2,30.17
+North America,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.88,6.19,3.14,3.31,1.09,1.14,2.76,2.9,2.24,2.35
+North America,food_group,oils,Environmental impacts,,,,,,,,,,,,,,33.39,24.09,10,7.22,5.22,3.73,19.43,13.99,26.82,19.34
+North America,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,62.8,67.11,19.11,20.72,45.2,46.92,58.68,62.9,47.21,50.66
+North America,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.37,3.36,3.06,3.05,0.94,0.94,3.79,3.78,3.86,3.84
+North America,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,9.98,11.3,51.14,57.88,2.37,2.69,26.35,29.83,20.48,23.18
+North America,food_group,total,Environmental impacts,,,,,,,,,,,,,,244.2,236.32,180.89,184.38,646.42,615.77,259.11,257.56,226.07,220.34
+Northern Africa,emission_type,Freshwater use,Environmental impacts,2.21,1.32,0.54,32.73,38.53,2.94,2.98,4,2.59,5.82,4.46,15.67,113.79,,,,,,,,,,
+Northern Africa,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,92.2,6.33,34.18,103.26,134.23,2.41,30.57,0.69,13.88,27.67,5.72,20.59,471.72,,,,,,,,,,
+Northern Africa,emission_type,Land use,Environmental impacts,637.24,8.52,12.45,62.82,215.79,18.88,1165.31,4.17,41.03,232.4,11.43,15.47,2425.52,,,,,,,,,,
+Northern Africa,emission_type,Nitrogen application,Environmental impacts,146.64,92.74,37.97,541.16,1417.96,0.04,167.88,11.91,95.11,19,72.57,234.64,2837.63,,,,,,,,,,
+Northern Africa,emission_type,Phosphorus application,Environmental impacts,17.37,10.8,6.5,72.02,160.68,0.14,25.62,1.61,26.62,187.51,10.28,30.4,549.55,,,,,,,,,,
+Northern Africa,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,9.16,8.38,3.47,3.13,212.99,204.19,7.99,7.34,7,6.46
+Northern Africa,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,2.77,3.69,1.09,1.45,1.09,1.45,2.55,3.4,1.97,2.63
+Northern Africa,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.83,0.85,0.39,0.39,0.12,0.12,1.12,1.15,1.18,1.21
+Northern Africa,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,19.36,19.48,29.92,30.88,4.52,4.42,35.27,35.06,27.91,27.56
+Northern Africa,food_group,grains,Environmental impacts,,,,,,,,,,,,,,67.84,71.48,54.08,57.03,8.5,8.94,95.78,100.35,72.72,76.23
+Northern Africa,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,7.48,6.25,4.54,3.83,0.59,0.49,0.05,0.01,0.23,0.04
+Northern Africa,food_group,milk,Environmental impacts,,,,,,,,,,,,,,18.29,10.14,5.68,3.15,42.11,23.34,13.44,7.45,14.71,8.15
+Northern Africa,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,2.26,2.52,1.21,1.35,0.42,0.46,1.06,1.18,0.86,0.96
+Northern Africa,food_group,oils,Environmental impacts,,,,,,,,,,,,,,8.86,10.86,2.63,3.23,1.49,1.8,5.22,6.39,7.14,8.74
+Northern Africa,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,7.46,9.31,2.75,3.44,3.14,3.92,7.27,9.08,5.93,7.41
+Northern Africa,food_group,roots,Environmental impacts,,,,,,,,,,,,,,2.06,2.11,1.87,1.91,0.58,0.59,2.32,2.37,2.36,2.41
+Northern Africa,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,5.38,5.34,27.56,27.34,1.28,1.27,14.2,14.09,11.04,10.95
+Northern Africa,food_group,total,Environmental impacts,,,,,,,,,,,,,,157.02,157.15,147.06,152.29,280.96,256.3,195.77,200,159.06,160.44
+Northern America,emission_type,Freshwater use,Environmental impacts,3.38,2.4,0.13,11.94,7.6,1.96,5.98,2.12,2.96,30.84,2.75,12.97,85.01,,,,,,,,,,
+Northern America,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,484.07,26.19,43.27,65.2,76.36,4.83,239.4,2.78,33.85,269.25,26.04,22.7,1293.93,,,,,,,,,,
+Northern America,emission_type,Land use,Environmental impacts,3883.46,51.81,2.65,50.85,213.02,27.35,231.84,22.97,129.66,1597.8,21.03,19.57,6252.01,,,,,,,,,,
+Northern America,emission_type,Nitrogen application,Environmental impacts,694.7,652.03,13.55,363.83,1612.01,1.14,617.99,151.85,321.33,1072.32,110.46,417.26,6028.47,,,,,,,,,,
+Northern America,emission_type,Phosphorus application,Environmental impacts,112.86,99.9,2.86,61.51,252.56,2.14,131.67,19.99,69.28,156.33,33.68,90.44,1033.21,,,,,,,,,,
+Northern America,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,14.61,14.01,4.87,4.68,477.92,456.85,13.2,12.65,11.97,11.47
+Northern America,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,11.64,13.51,4.58,5.31,4.59,5.33,10.73,12.46,8.3,9.64
+Northern America,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1.2,1.29,0.63,0.67,0.18,0.2,1.5,1.62,1.66,1.79
+Northern America,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,19.74,17.68,32.29,28.2,4.28,3.85,34.83,31.17,27.1,24.32
+Northern America,food_group,grains,Environmental impacts,,,,,,,,,,,,,,32.22,32.15,30.7,30.51,4.47,4.45,52.21,51.82,39.39,39.12
+Northern America,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,4.4,4.31,2.69,2.62,0.35,0.34,0.01,0.03,0.07,0.13
+Northern America,food_group,milk,Environmental impacts,,,,,,,,,,,,,,42.52,37.51,13.2,11.65,97.89,86.37,31.24,27.56,34.2,30.17
+Northern America,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.88,6.19,3.14,3.31,1.09,1.14,2.76,2.9,2.24,2.35
+Northern America,food_group,oils,Environmental impacts,,,,,,,,,,,,,,33.39,24.09,10,7.22,5.22,3.73,19.43,13.99,26.82,19.34
+Northern America,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,62.8,67.11,19.11,20.72,45.2,46.92,58.68,62.9,47.21,50.66
+Northern America,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.37,3.36,3.06,3.05,0.94,0.94,3.79,3.78,3.86,3.84
+Northern America,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,9.98,11.3,51.14,57.88,2.37,2.69,26.35,29.83,20.48,23.18
+Northern America,food_group,total,Environmental impacts,,,,,,,,,,,,,,244.2,236.32,180.89,184.38,646.42,615.77,259.11,257.56,226.07,220.34
+Northern Europe,emission_type,Freshwater use,Environmental impacts,0.18,0.12,0.07,2.51,4.43,0.29,0.53,0.28,0.39,5.76,0.28,1.46,16.29,,,,,,,,,,
+Northern Europe,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,84.82,6.51,8.9,14.33,28.51,0.49,61.56,0.71,6.95,49.45,3.73,6.49,272.46,,,,,,,,,,
+Northern Europe,emission_type,Land use,Environmental impacts,287.34,8.78,1.49,12.36,54.71,2.67,112.54,3.01,16.92,159.14,8.28,5.13,672.35,,,,,,,,,,
+Northern Europe,emission_type,Nitrogen application,Environmental impacts,88.42,89.4,8.83,125.02,317.17,0.05,169.49,6.56,60.94,190.04,24.43,48.99,1129.35,,,,,,,,,,
+Northern Europe,emission_type,Phosphorus application,Environmental impacts,12.11,9.65,1.85,20.72,27.61,0.18,34.29,0.84,11.04,24.51,4.93,8.77,156.51,,,,,,,,,,
+Northern Europe,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,10.73,9.65,3.8,3.41,306.01,275.81,9.55,8.59,8.53,7.68
+Northern Europe,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,9.43,9.79,3.71,3.85,3.72,3.86,8.69,9.02,6.73,6.98
+Northern Europe,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1,1.05,0.5,0.52,0.15,0.16,1.29,1.37,1.39,1.47
+Northern Europe,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,19.29,13.66,32.61,22.23,3.93,2.93,33.13,23.97,25.46,18.64
+Northern Europe,food_group,grains,Environmental impacts,,,,,,,,,,,,,,37.94,39.23,35.43,36.93,5.12,5.33,58.06,60.61,44.01,45.91
+Northern Europe,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,2.72,2.81,1.66,1.69,0.21,0.22,0.01,0.03,0.05,0.14
+Northern Europe,food_group,milk,Environmental impacts,,,,,,,,,,,,,,45.41,37.39,14.1,11.61,104.54,86.08,33.36,27.47,36.52,30.07
+Northern Europe,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,3.4,2.56,1.82,1.37,0.63,0.47,1.6,1.2,1.29,0.97
+Northern Europe,food_group,oils,Environmental impacts,,,,,,,,,,,,,,17.93,13.02,5.25,3.91,3.33,1.98,10.78,7.54,14.5,10.44
+Northern Europe,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,45.34,44.65,12.42,12.42,38.99,37.55,41.5,40.99,33.15,32.78
+Northern Europe,food_group,roots,Environmental impacts,,,,,,,,,,,,,,5.1,4.05,4.63,3.68,1.42,1.13,5.74,4.56,5.83,4.64
+Northern Europe,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,6.39,7.5,32.71,38.44,1.52,1.78,16.86,19.81,13.1,15.39
+Northern Europe,food_group,total,Environmental impacts,,,,,,,,,,,,,,206.73,187.38,153.25,144.59,471.2,418.89,224.25,208.78,192.92,177.42
+Oceania,emission_type,Freshwater use,Environmental impacts,0.48,0.66,0.02,2.49,0.65,0.08,0.65,0.26,0.26,3.17,0.1,1.18,10.02,,,,,,,,,,
+Oceania,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,186.95,1.72,5.23,6.14,4.06,0.35,42.22,0.28,5.4,64.05,1.18,1.66,319.24,,,,,,,,,,
+Oceania,emission_type,Land use,Environmental impacts,2040.49,2.31,0.85,5.47,28.18,3.47,494.69,1.78,17.65,151.15,2.34,3.16,2751.53,,,,,,,,,,
+Oceania,emission_type,Nitrogen application,Environmental impacts,26.73,41.51,5.64,74.18,93.16,0.07,36.63,52.22,100.98,109.11,12.89,31.49,584.61,,,,,,,,,,
+Oceania,emission_type,Phosphorus application,Environmental impacts,8.69,14.48,1.48,18.38,27.78,0.23,11.52,11.54,22.64,36.33,2.57,4.82,160.48,,,,,,,,,,
+Oceania,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,17.62,20.07,6.39,7.62,469.17,465.24,15.56,17.5,13.82,15.34
+Oceania,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,4.41,5.73,1.73,2.25,1.74,2.26,4.06,5.28,3.14,4.09
+Oceania,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.78,0.94,0.41,0.48,0.12,0.14,0.97,1.19,1.07,1.31
+Oceania,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,14.41,17.88,23.33,30.08,2.95,3.63,24.76,30.66,19.14,23.57
+Oceania,food_group,grains,Environmental impacts,,,,,,,,,,,,,,19.61,23.45,20.38,23.98,2.84,3.36,33.33,39.18,25.13,29.56
+Oceania,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,1.65,1.75,0.99,0.97,0.13,0.13,0.02,0.08,0.1,0.38
+Oceania,food_group,milk,Environmental impacts,,,,,,,,,,,,,,28.48,27.54,8.84,8.55,65.56,63.41,20.92,20.24,22.9,22.15
+Oceania,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,8.15,11.52,4.35,6.16,1.5,2.12,3.82,5.4,3.1,4.38
+Oceania,food_group,oils,Environmental impacts,,,,,,,,,,,,,,15.18,18.1,4.24,5.1,3.68,4.21,9.71,11.47,12.45,14.81
+Oceania,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,39.2,48.23,11.78,14.32,28.91,36.38,36.53,44.84,29.37,36.02
+Oceania,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.03,5.05,2.75,4.59,0.85,1.41,3.41,5.68,3.47,5.78
+Oceania,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,6.19,8.26,31.72,42.32,1.47,1.97,16.35,21.81,12.7,16.95
+Oceania,food_group,total,Environmental impacts,,,,,,,,,,,,,,162.37,195.02,125.19,160.99,581.81,589.35,176.05,214.98,150.57,181.72
+Polynesia,emission_type,Freshwater use,Environmental impacts,0,0,0,0,0,0,0,0.01,0,0.01,0,0,0.03,,,,,,,,,,
+Polynesia,emission_type,Nitrogen application,Environmental impacts,0.03,0,0.01,0.26,0.2,0,0.02,1.78,0.06,0.14,0.02,0.08,2.6,,,,,,,,,,
+Polynesia,emission_type,Phosphorus application,Environmental impacts,0.01,0,0,0.04,0.03,0,0.01,0.25,0.01,2.86,0,0.01,3.23,,,,,,,,,,
+Polynesia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,9.05,6.08,3.43,2.21,209.96,160.37,7.89,5.37,6.91,4.76
+Polynesia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,4.47,1.12,1.76,0.44,1.76,0.44,4.12,1.03,3.19,0.8
+Polynesia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.63,0.64,0.35,0.35,0.1,0.1,0.75,0.78,0.86,0.88
+Polynesia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,22.89,21.04,44.36,40.1,3.87,3.6,36.66,33.82,26.94,24.95
+Polynesia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,16.64,17.12,18.19,18.22,2.47,2.51,29,29.37,21.86,22.15
+Polynesia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,0.2,0.88,0.06,0.26,0.01,0.06,0.05,0.21,0.24,1.01
+Polynesia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,5.87,4.54,1.82,1.41,13.51,10.46,4.31,3.34,4.72,3.65
+Polynesia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,117.49,114.39,62.79,61.13,21.67,21.09,55.09,53.64,44.69,43.51
+Polynesia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,2.32,4.95,0.14,1.15,2.7,2.19,2.93,3.84,2.32,4.26
+Polynesia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,58.83,67.52,18.62,22.03,39.02,41.75,55.43,64.03,44.71,51.77
+Polynesia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,8.08,8.01,7.35,7.28,2.26,2.24,9.1,9.01,9.25,9.17
+Polynesia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,4.87,5.75,24.95,29.48,1.16,1.37,12.86,15.19,9.99,11.8
+Polynesia,food_group,total,Environmental impacts,,,,,,,,,,,,,,255.24,256.85,192.61,194.85,301.56,249.94,225.2,228.26,180.12,184.16
+South-eastern Asia,emission_type,Freshwater use,Environmental impacts,1.08,2.83,1.34,8.82,7.09,1.01,0.83,10.61,2.86,24.11,0.96,42.37,103.91,,,,,,,,,,
+South-eastern Asia,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,238.57,24.4,98.16,63.34,45.63,6.64,15.38,31.64,52.93,165.22,23.24,32.57,797.72,,,,,,,,,,
+South-eastern Asia,emission_type,Land use,Environmental impacts,571.29,37.09,11.37,62.34,98,28.39,166.79,80.08,66.72,549.42,23.82,36.83,1732.13,,,,,,,,,,
+South-eastern Asia,emission_type,Nitrogen application,Environmental impacts,68.22,249.02,140.01,1041.56,944.24,35.47,57.94,45.42,183.81,391.61,80.02,504.64,3741.95,,,,,,,,,,
+South-eastern Asia,emission_type,Phosphorus application,Environmental impacts,17.12,42.67,31.57,152.12,115.12,23.06,12.49,8.23,37.24,86.46,7.74,87.96,621.77,,,,,,,,,,
+South-eastern Asia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,2.1,2.48,0.73,0.85,63.09,76.87,1.88,2.23,1.69,2.01
+South-eastern Asia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,4.67,5.9,1.84,2.32,1.84,2.33,4.31,5.44,3.33,4.21
+South-eastern Asia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1.94,2.7,0.93,1.29,0.28,0.39,2.58,3.6,2.75,3.83
+South-eastern Asia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,11.85,12.62,20.23,21.02,2.47,2.83,20.56,22.48,15.82,17.42
+South-eastern Asia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,12.54,14.7,10.44,13.05,1.7,2.04,21.22,25.04,15.88,18.77
+South-eastern Asia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,3.35,3.46,1.85,1.76,0.25,0.26,0.16,0.28,0.76,1.33
+South-eastern Asia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,2.91,1.11,0.9,0.34,6.7,2.55,2.14,0.81,2.34,0.89
+South-eastern Asia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,9.99,11.11,5.34,5.94,1.84,2.05,4.68,5.21,3.8,4.23
+South-eastern Asia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,4.15,5.64,0.84,1.19,2.38,3,3.58,4.71,3.67,4.94
+South-eastern Asia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,20.56,23.11,5.56,6.38,18.01,19.65,18.78,21.18,14.99,16.93
+South-eastern Asia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,2.2,2.15,2,1.96,0.61,0.6,2.47,2.42,2.52,2.47
+South-eastern Asia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,3.51,4.21,17.99,21.58,0.84,1,9.27,11.12,7.21,8.64
+South-eastern Asia,food_group,total,Environmental impacts,,,,,,,,,,,,,,122.25,151.98,164.23,218.95,133.38,162.85,168.1,217.55,123.16,157.22
+South America,emission_type,Freshwater use,Environmental impacts,1.62,1.02,0.06,16.22,4.84,2.15,2.26,1.93,1.19,15.37,2.13,16.98,65.77,,,,,,,,,,
+South America,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,1439.3,21.23,20.67,94.25,70.76,7.12,249.47,7.24,49.91,171.07,26.88,71.09,2228.99,,,,,,,,,,
+South America,emission_type,Land use,Environmental impacts,4809.2,43.3,7.48,71.01,194.63,53.24,633.42,18.23,65.35,477.42,40.24,28.89,6442.41,,,,,,,,,,
+South America,emission_type,Nitrogen application,Environmental impacts,244.33,148.05,9.64,477.64,1038.76,0.86,185.51,7.86,76.86,199.81,76.64,348.93,2814.89,,,,,,,,,,
+South America,emission_type,Phosphorus application,Environmental impacts,102.36,51.12,3.46,108.7,261.27,1.37,136.42,1.13,109.9,144.74,26.78,59.69,1006.94,,,,,,,,,,
+South America,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,12.76,12.54,4.27,4.19,414.21,407.07,11.52,11.32,10.44,10.25
+South America,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,7.34,9.25,2.89,3.64,2.9,3.65,6.77,8.53,5.24,6.6
+South America,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.45,0.53,0.22,0.25,0.07,0.08,0.59,0.71,0.64,0.76
+South America,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,14.99,13.96,28.25,26.19,3.29,3.15,26.55,24.99,20.12,18.98
+South America,food_group,grains,Environmental impacts,,,,,,,,,,,,,,26.48,28.6,24.16,25.48,3.67,3.92,44.19,47.29,33.21,35.53
+South America,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,10.6,8.5,6.22,5.19,0.82,0.67,0.23,0.02,1.1,0.12
+South America,food_group,milk,Environmental impacts,,,,,,,,,,,,,,22.8,20.62,7.08,6.4,52.49,47.47,16.75,15.15,18.34,16.59
+South America,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.2,5.1,2.78,2.73,0.96,0.94,2.44,2.39,1.98,1.94
+South America,food_group,oils,Environmental impacts,,,,,,,,,,,,,,14.88,16.24,4.26,4.63,3.16,3.56,9.22,10.14,12.11,13.25
+South America,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,35.51,40.86,11.5,13.22,22.37,25.77,33.61,38.67,27.16,31.25
+South America,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.69,3.41,3.36,3.1,1.03,0.95,4.16,3.84,4.23,3.91
+South America,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,7.16,7.51,36.66,38.47,1.7,1.79,18.89,19.82,14.68,15.41
+South America,food_group,total,Environmental impacts,,,,,,,,,,,,,,171.77,182.22,153.96,167.45,514.45,510.87,192.78,210.05,160.54,171.78
+Southern Africa,emission_type,Freshwater use,Environmental impacts,0.87,0.22,0,1.2,4.25,0.25,0.34,0.13,0.2,1.91,0.45,2.53,12.35,,,,,,,,,,
+Southern Africa,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,90.34,2.09,1.01,5.74,45.02,1.06,10.87,0.39,4.94,23.31,1.92,10.11,196.8,,,,,,,,,,
+Southern Africa,emission_type,Land use,Environmental impacts,1647.17,2.8,0.03,4.31,56.22,3.18,472.25,0.73,24.14,76.78,3.32,7.61,2298.52,,,,,,,,,,
+Southern Africa,emission_type,Nitrogen application,Environmental impacts,50.36,12.6,0.14,34.66,218.86,1.07,17.32,1.29,20.25,15.76,10.07,38.1,420.49,,,,,,,,,,
+Southern Africa,emission_type,Phosphorus application,Environmental impacts,10.32,2.56,0.05,7.68,38.38,1.68,5.81,0.19,7.11,69.33,2.35,7.41,152.86,,,,,,,,,,
+Southern Africa,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,10.25,10.17,3.69,3.63,280.2,283.72,9.08,9.03,8.08,8.05
+Southern Africa,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,5.12,4.44,2.01,1.74,2.02,1.75,4.72,4.09,3.65,3.16
+Southern Africa,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.08,0.1,0.04,0.05,0.01,0.02,0.1,0.13,0.11,0.14
+Southern Africa,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,6.62,4.98,10.48,7.96,1.45,1.19,11.72,9.18,9.17,7.26
+Southern Africa,food_group,grains,Environmental impacts,,,,,,,,,,,,,,48.17,46.44,36.54,35.8,6.31,6.13,79.32,76.89,59.3,57.49
+Southern Africa,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,3.88,3.25,2.22,1.54,0.3,0.24,0.13,0.34,0.61,1.65
+Southern Africa,food_group,milk,Environmental impacts,,,,,,,,,,,,,,10.11,9.08,3.14,2.82,23.27,20.91,7.43,6.67,8.13,7.31
+Southern Africa,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,0.63,0.42,0.33,0.22,0.12,0.08,0.29,0.2,0.24,0.16
+Southern Africa,food_group,oils,Environmental impacts,,,,,,,,,,,,,,14.88,13.31,4.37,3.9,2.68,2.43,8.9,7.98,12.02,10.76
+Southern Africa,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,27.99,32.47,9.64,11.2,14.94,17.25,26.86,31.17,21.8,25.3
+Southern Africa,food_group,roots,Environmental impacts,,,,,,,,,,,,,,2.28,2.22,2.07,2.02,0.64,0.62,2.56,2.5,2.61,2.54
+Southern Africa,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,5.67,6.85,29.04,35.06,1.35,1.63,14.96,18.07,11.63,14.04
+Southern Africa,food_group,total,Environmental impacts,,,,,,,,,,,,,,140.82,140.95,115.16,122.18,337.32,341.62,175.34,179.23,143.22,146.08
+Southern Asia,emission_type,Freshwater use,Environmental impacts,4.56,7.28,3.53,114.57,318.32,62.36,33.75,18.83,21.28,13.45,14.53,202.67,815.13,,,,,,,,,,
+Southern Asia,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,272.41,39.67,64.97,219.01,315.75,47.89,679.84,23.81,132.11,68.42,42.65,110.31,2016.84,,,,,,,,,,
+Southern Asia,emission_type,Land use,Environmental impacts,996.25,60.89,9.79,192.78,418.93,356.04,1011.34,62.46,467.38,418.97,61.28,123.94,4180.04,,,,,,,,,,
+Southern Asia,emission_type,Nitrogen application,Environmental impacts,155.55,314.73,218.32,2694.49,10736.1,34.13,1418.21,426.77,928.29,3.17,353.62,2387.05,19670.43,,,,,,,,,,
+Southern Asia,emission_type,Phosphorus application,Environmental impacts,28.79,57.26,55.05,574.63,1852.69,22.4,342.71,107.76,317.6,30.04,109.15,385.45,3883.54,,,,,,,,,,
+Southern Asia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,2.04,1.8,0.75,0.66,52.39,45.84,1.8,1.58,1.59,1.4
+Southern Asia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,2.03,2.83,0.8,1.11,0.8,1.12,1.87,2.61,1.45,2.02
+Southern Asia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.66,0.84,0.31,0.39,0.1,0.12,0.9,1.13,0.95,1.19
+Southern Asia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,10.29,11.67,16.23,18.16,2.3,2.59,18.39,20.74,14.43,16.28
+Southern Asia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,29.86,29.42,26.64,26.77,3.95,3.95,44.86,45.28,34,34.27
+Southern Asia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,10.49,12.13,6.44,7.37,0.83,0.95,0.01,0.07,0.07,0.33
+Southern Asia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,14.5,17.39,4.5,5.4,33.39,40.04,10.66,12.78,11.67,13.99
+Southern Asia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.24,4.57,2.8,2.44,0.97,0.84,2.45,2.14,1.99,1.74
+Southern Asia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,7.94,8.38,2.19,2.35,2.03,1.99,5.15,5.33,6.53,6.86
+Southern Asia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,2.62,3,0.93,1.08,1.28,1.39,2.53,2.9,2.06,2.36
+Southern Asia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,1.71,1.82,1.55,1.66,0.48,0.51,1.92,2.05,1.96,2.09
+Southern Asia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,3.82,4,19.55,20.49,0.91,0.95,10.07,10.56,7.83,8.21
+Southern Asia,food_group,total,Environmental impacts,,,,,,,,,,,,,,114.97,130.86,136.15,162.19,118.06,126.22,143.39,166.63,111.6,128.37
+Southern Europe,emission_type,Freshwater use,Environmental impacts,1.67,2.18,0.08,6.61,4.48,0.5,2.48,0.56,5.6,9.51,0.31,1.62,35.59,,,,,,,,,,
+Southern Europe,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,85.76,8.93,22.6,36.08,37.68,1.46,70.62,0.28,22.17,77.77,3.19,6.77,373.29,,,,,,,,,,
+Southern Europe,emission_type,Land use,Environmental impacts,370.6,12.04,3.04,28.5,75.69,10.13,191.02,10.11,74.75,311.61,6.58,5.32,1099.39,,,,,,,,,,
+Southern Europe,emission_type,Nitrogen application,Environmental impacts,131.72,170.15,11.89,241.18,436.69,0.17,184.15,38.46,326.18,471.58,19.34,61.86,2093.38,,,,,,,,,,
+Southern Europe,emission_type,Phosphorus application,Environmental impacts,21.07,23.24,2.44,44.08,49.02,0.53,56.34,5.09,44.53,71.46,3.88,11.12,332.8,,,,,,,,,,
+Southern Europe,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,10.96,7.72,3.95,2.74,296.76,218.99,9.69,6.87,8.62,6.13
+Southern Europe,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,9.55,10.16,3.76,4,3.77,4.01,8.8,9.37,6.81,7.25
+Southern Europe,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1.22,1.16,0.63,0.62,0.19,0.18,1.52,1.43,1.68,1.6
+Southern Europe,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,23.53,22.05,37.16,35.32,5.13,4.72,41.52,38.63,32.47,30.08
+Southern Europe,food_group,grains,Environmental impacts,,,,,,,,,,,,,,39.08,40.89,40.87,42.19,5.69,5.9,66.79,69.14,50.34,52.14
+Southern Europe,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,4.88,4.53,3,2.78,0.38,0.36,0,0.01,0.02,0.04
+Southern Europe,food_group,milk,Environmental impacts,,,,,,,,,,,,,,37.9,31.26,11.77,9.71,87.26,71.97,27.84,22.97,30.48,25.14
+Southern Europe,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.41,5.82,2.89,3.11,1,1.07,2.54,2.73,2.06,2.21
+Southern Europe,food_group,oils,Environmental impacts,,,,,,,,,,,,,,26.16,26.35,7.72,7.8,4.58,4.52,15.56,15.6,21.11,21.24
+Southern Europe,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,52.7,55.79,13.06,13.97,51.71,54.05,47.36,50.23,37.6,39.91
+Southern Europe,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.07,2.71,2.79,2.46,0.86,0.76,3.46,3.05,3.52,3.1
+Southern Europe,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,5.11,5.8,26.19,29.73,1.22,1.38,13.5,15.32,10.49,11.9
+Southern Europe,food_group,total,Environmental impacts,,,,,,,,,,,,,,221.82,217.51,158.87,161.73,460.31,370.46,242.64,241.19,207.77,204.45
+Western Africa,emission_type,Freshwater use,Environmental impacts,0.24,0.15,0.08,12.29,6.65,1.4,0.46,1.53,0.64,0.47,3.9,5.5,33.31,,,,,,,,,,
+Western Africa,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,187.67,7.78,20.9,93.05,295.46,16.62,41.71,18.22,43.33,20.02,234.29,24.73,1003.78,,,,,,,,,,
+Western Africa,emission_type,Land use,Environmental impacts,3401.17,10.42,4.48,68.97,371.22,118.79,585.06,53.37,94.66,21.99,309.32,18.6,5058.03,,,,,,,,,,
+Western Africa,emission_type,Nitrogen application,Environmental impacts,39.75,55.12,7.96,528.39,874.45,1.5,40.72,3.55,93.03,139.19,119.88,107.6,2011.13,,,,,,,,,,
+Western Africa,emission_type,Phosphorus application,Environmental impacts,6.64,8.35,2.4,90.57,129.16,2.43,6.78,0.51,19.78,22.23,16.86,18.55,324.25,,,,,,,,,,
+Western Africa,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,4.59,3.61,1.78,1.4,98.08,77.76,3.98,3.13,3.46,2.73
+Western Africa,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,2.2,1.86,0.86,0.73,0.87,0.73,2.02,1.72,1.57,1.33
+Western Africa,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.52,0.54,0.24,0.25,0.08,0.08,0.71,0.73,0.74,0.77
+Western Africa,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,8.88,9.9,15.6,16.78,2.42,2.73,17.2,19.27,13.35,15.09
+Western Africa,food_group,grains,Environmental impacts,,,,,,,,,,,,,,56.87,48.15,25.04,23.22,5.34,4.75,51.64,48.19,40.3,37.29
+Western Africa,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,11.48,11.84,6.94,7.22,0.9,0.93,0.09,0.05,0.45,0.25
+Western Africa,food_group,milk,Environmental impacts,,,,,,,,,,,,,,3.66,2.16,1.14,0.67,8.42,4.97,2.69,1.59,2.94,1.74
+Western Africa,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,7.11,6.52,3.8,3.48,1.31,1.2,3.33,3.06,2.7,2.48
+Western Africa,food_group,oils,Environmental impacts,,,,,,,,,,,,,,6.23,5.59,1.34,1.17,3.22,3,5.15,4.69,5.45,4.91
+Western Africa,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,3.37,3.33,1.04,1.02,2.34,2.36,3.16,3.12,2.54,2.51
+Western Africa,food_group,roots,Environmental impacts,,,,,,,,,,,,,,10.61,12.41,9.64,11.27,2.97,3.47,11.94,13.96,12.14,14.2
+Western Africa,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,1.72,1.83,8.82,9.37,0.41,0.43,4.55,4.83,3.53,3.75
+Western Africa,food_group,total,Environmental impacts,,,,,,,,,,,,,,129.09,124.66,102.91,114.67,135.66,115.7,127.79,134.8,102.7,106.33
+Western Asia,emission_type,Freshwater use,Environmental impacts,3.28,12.01,0.16,44.2,42.11,2.82,2.88,1.71,1.23,12.89,1.44,8.71,133.44,,,,,,,,,,
+Western Asia,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,145.74,13.52,8.09,67.64,85.74,4.42,97.83,2.66,33.16,60.42,3.91,19.32,542.45,,,,,,,,,,
+Western Asia,emission_type,Land use,Environmental impacts,2720.92,19.95,2.01,51.14,155.76,33.91,807.78,10.63,65.98,63.35,6.71,23.68,3961.83,,,,,,,,,,
+Western Asia,emission_type,Nitrogen application,Environmental impacts,131.56,246.2,13.54,496.95,1210.64,0.27,232.01,48.48,159.81,459.16,30.7,158.84,3188.15,,,,,,,,,,
+Western Asia,emission_type,Phosphorus application,Environmental impacts,26.67,41.41,2.89,76.52,194.6,0.91,55.14,6.28,36.32,86.23,5.51,29.37,561.82,,,,,,,,,,
+Western Asia,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,6.28,6.64,2.35,2.47,153.55,164.47,5.5,5.83,4.85,5.14
+Western Asia,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,5.17,6.85,2.03,2.7,2.04,2.7,4.77,6.32,3.69,4.89
+Western Asia,food_group,fish,Environmental impacts,,,,,,,,,,,,,,0.31,0.4,0.15,0.19,0.05,0.06,0.41,0.54,0.44,0.57
+Western Asia,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,18.8,17.91,28.39,27.79,4.24,3.97,33.64,31.83,26.55,24.99
+Western Asia,food_group,grains,Environmental impacts,,,,,,,,,,,,,,49.7,47.55,49.3,48.39,7.02,6.83,81.86,80.24,61.78,60.48
+Western Asia,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,7.66,7.1,4.64,4.36,0.6,0.56,0.05,0.01,0.26,0.04
+Western Asia,food_group,milk,Environmental impacts,,,,,,,,,,,,,,16.27,14.36,5.05,4.46,37.45,33.07,11.95,10.55,13.08,11.55
+Western Asia,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,3.94,3.61,2.1,1.93,0.73,0.67,1.85,1.69,1.5,1.37
+Western Asia,food_group,oils,Environmental impacts,,,,,,,,,,,,,,13.66,11.82,3.62,3.07,4.13,3.83,9.3,8.22,11.36,9.89
+Western Asia,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,19.78,17.97,7.23,6.57,8.64,7.85,19.25,17.48,15.69,14.25
+Western Asia,food_group,roots,Environmental impacts,,,,,,,,,,,,,,1.58,1.6,1.43,1.45,0.44,0.45,1.78,1.8,1.81,1.83
+Western Asia,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,5.08,5.35,26.02,27.4,1.21,1.27,13.41,14.12,10.42,10.97
+Western Asia,food_group,total,Environmental impacts,,,,,,,,,,,,,,156.03,152.26,149.88,155.75,226.21,234.44,197.82,198.61,160.32,158.61
+Western Europe,emission_type,Freshwater use,Environmental impacts,0.51,0.52,0.04,3.38,1.19,0.09,1.23,0.46,0.65,1.64,0.21,2.1,12.01,,,,,,,,,,
+Western Europe,emission_type,Greenhouse gas emissions (life-cycle),Environmental impacts,124.18,12.27,18.24,29.03,47.86,0.77,84.59,1.78,17.92,75.25,5.81,11.4,429.08,,,,,,,,,,
+Western Europe,emission_type,Land use,Environmental impacts,385.52,16.53,2.44,25.73,91.88,3.64,87.43,8,44.77,116.49,12.74,8.98,804.13,,,,,,,,,,
+Western Europe,emission_type,Nitrogen application,Environmental impacts,153.85,179.16,8.61,220.14,557,0.34,274.86,62.09,164.5,611.86,42.01,77.58,2352.01,,,,,,,,,,
+Western Europe,emission_type,Phosphorus application,Environmental impacts,19.78,20.98,1.79,38.86,50.94,1.14,60.06,8.12,25.42,73.97,8.49,14.4,323.94,,,,,,,,,,
+Western Europe,food_group,beef_lamb,Environmental impacts,,,,,,,,,,,,,,10.66,8.82,3.78,3.08,302.3,260.99,9.48,7.88,8.47,7.07
+Western Europe,food_group,eggs,Environmental impacts,,,,,,,,,,,,,,10.84,10.62,4.26,4.18,4.27,4.19,9.99,9.79,7.73,7.58
+Western Europe,food_group,fish,Environmental impacts,,,,,,,,,,,,,,1.07,0.95,0.54,0.48,0.16,0.14,1.37,1.23,1.49,1.33
+Western Europe,food_group,fruit_veg,Environmental impacts,,,,,,,,,,,,,,17.76,16.03,28.89,25.75,3.68,3.35,30.66,27.78,23.73,21.55
+Western Europe,food_group,grains,Environmental impacts,,,,,,,,,,,,,,36.88,37.92,35.43,36.3,5.1,5.24,58.95,60.66,44.55,45.83
+Western Europe,food_group,legumes,Environmental impacts,,,,,,,,,,,,,,1.46,1.61,0.84,0.88,0.11,0.12,0.04,0.08,0.2,0.39
+Western Europe,food_group,milk,Environmental impacts,,,,,,,,,,,,,,44.4,32.26,13.79,10.02,102.21,74.26,32.62,23.7,35.71,25.95
+Western Europe,food_group,nuts_seeds,Environmental impacts,,,,,,,,,,,,,,5.04,3.41,2.7,1.82,0.93,0.63,2.37,1.6,1.92,1.3
+Western Europe,food_group,oils,Environmental impacts,,,,,,,,,,,,,,19.4,18.15,5.55,5.43,4.14,2.87,12.04,10.58,15.8,14.58
+Western Europe,food_group,pork_poultry,Environmental impacts,,,,,,,,,,,,,,52.11,47.03,12.73,11.73,51.96,45.8,46.72,42.32,37.06,33.61
+Western Europe,food_group,roots,Environmental impacts,,,,,,,,,,,,,,3.65,3.28,3.32,2.98,1.02,0.92,4.11,3.69,4.18,3.76
+Western Europe,food_group,sugar,Environmental impacts,,,,,,,,,,,,,,7.73,7.54,39.58,38.63,1.84,1.79,20.4,19.91,15.85,15.47
+Western Europe,food_group,total,Environmental impacts,,,,,,,,,,,,,,212.43,189.66,154.64,145.83,478.87,401.9,231.33,212.86,198.33,180.73
