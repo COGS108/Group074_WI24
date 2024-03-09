@@ -1102,6 +1102,27 @@ index,Country,Code,Year,Protein
 3599,Ethiopia,ETH,2018,70.21508
 3600,Ethiopia,ETH,2019,71.733154
 3601,Ethiopia,ETH,2020,72.71128
+3793,European Union (27),SDN,2000,104.34044
+3794,European Union (27),SDN,2001,105.85872
+3795,European Union (27),SDN,2002,106.53505
+3796,European Union (27),SDN,2003,105.59831
+3797,European Union (27),SDN,2004,105.27924
+3798,European Union (27),SDN,2005,104.9986
+3799,European Union (27),SDN,2006,105.63914
+3800,European Union (27),SDN,2007,106.34045
+3801,European Union (27),SDN,2008,105.89808
+3802,European Union (27),SDN,2009,106.2021
+3803,European Union (27),SDN,2010,106.09811
+3804,European Union (27),SDN,2011,105.44511
+3805,European Union (27),SDN,2012,104.7203
+3806,European Union (27),SDN,2013,104.75847
+3807,European Union (27),SDN,2014,103.971504
+3808,European Union (27),SDN,2015,104.54189
+3809,European Union (27),SDN,2016,105.27379
+3810,European Union (27),SDN,2017,105.248085
+3811,European Union (27),SDN,2018,106.05628
+3812,European Union (27),SDN,2019,107.76271
+3813,European Union (27),SDN,2020,107.98914
 3913,Fiji,FJI,2000,71.123
 3914,Fiji,FJI,2001,72.643654
 3915,Fiji,FJI,2002,71.432655
@@ -1974,6 +1995,27 @@ index,Country,Code,Year,Protein
 6367,Lithuania,LTU,2018,121.481636
 6368,Lithuania,LTU,2019,119.48685
 6369,Lithuania,LTU,2020,122.75198
+6529,Lower-middle-income countries,SDN,2000,57.849342
+6530,Lower-middle-income countries,SDN,2001,57.66506
+6531,Lower-middle-income countries,SDN,2002,57.200436
+6532,Lower-middle-income countries,SDN,2003,57.484516
+6533,Lower-middle-income countries,SDN,2004,57.734226
+6534,Lower-middle-income countries,SDN,2005,57.964573
+6535,Lower-middle-income countries,SDN,2006,59.309814
+6536,Lower-middle-income countries,SDN,2007,60.790447
+6537,Lower-middle-income countries,SDN,2008,60.962276
+6538,Lower-middle-income countries,SDN,2009,61.42426
+6539,Lower-middle-income countries,SDN,2010,62.848106
+6540,Lower-middle-income countries,SDN,2011,63.275524
+6541,Lower-middle-income countries,SDN,2012,63.66644
+6542,Lower-middle-income countries,SDN,2013,64.75737
+6543,Lower-middle-income countries,SDN,2014,65.62916
+6544,Lower-middle-income countries,SDN,2015,65.60737
+6545,Lower-middle-income countries,SDN,2016,66.65929
+6546,Lower-middle-income countries,SDN,2017,68.004715
+6547,Lower-middle-income countries,SDN,2018,67.93435
+6548,Lower-middle-income countries,SDN,2019,68.70822
+6549,Lower-middle-income countries,SDN,2020,69.16688
 6550,Luxembourg,LUX,2000,99.24332
 6551,Luxembourg,LUX,2001,107.184525
 6552,Luxembourg,LUX,2002,105.85226
@@ -3550,6 +3592,27 @@ index,Country,Code,Year,Protein
 11577,United States,USA,2018,113.420975
 11578,United States,USA,2019,114.67872
 11579,United States,USA,2020,117.04343
+11619,Upper-middle-income countries,SDN,2000,82.659805
+11620,Upper-middle-income countries,SDN,2001,82.51764
+11621,Upper-middle-income countries,SDN,2002,83.170616
+11622,Upper-middle-income countries,SDN,2003,83.83974
+11623,Upper-middle-income countries,SDN,2004,84.54763
+11624,Upper-middle-income countries,SDN,2005,85.573586
+11625,Upper-middle-income countries,SDN,2006,86.10466
+11626,Upper-middle-income countries,SDN,2007,87.69906
+11627,Upper-middle-income countries,SDN,2008,89.54574
+11628,Upper-middle-income countries,SDN,2009,89.860054
+11629,Upper-middle-income countries,SDN,2010,92.26306
+11630,Upper-middle-income countries,SDN,2011,92.64893
+11631,Upper-middle-income countries,SDN,2012,93.33516
+11632,Upper-middle-income countries,SDN,2013,93.86848
+11633,Upper-middle-income countries,SDN,2014,94.92695
+11634,Upper-middle-income countries,SDN,2015,96.09236
+11635,Upper-middle-income countries,SDN,2016,96.89392
+11636,Upper-middle-income countries,SDN,2017,97.86462
+11637,Upper-middle-income countries,SDN,2018,98.72898
+11638,Upper-middle-income countries,SDN,2019,99.35018
+11639,Upper-middle-income countries,SDN,2020,99.98468
 11679,Uruguay,URY,2000,87.66957
 11680,Uruguay,URY,2001,92.67597
 11681,Uruguay,URY,2002,86.993416
